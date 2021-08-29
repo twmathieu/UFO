@@ -24,3 +24,5 @@ function doubleAddition(c,d) {
     return total;
 }
 
+printHello = () => "Hello there!";
+
